@@ -100,8 +100,9 @@ body {
     outline: none;
     height: 50px;
     border: none;
-    background-color: #dcd7a6f7;
+    background-color: #d6d4b9f7;
     color: #7a6c6c;
+    font-size: large;
     box-shadow: #f0ddbc95 0px 2px 6px 0px;
 }
 
