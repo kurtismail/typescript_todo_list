@@ -8,6 +8,7 @@ const url = "https://63878fa5d9b24b1be3f43de1.mockapi.io/todos";
 
 const Home = () => {
   const [todos, setTodos] = useState<TodoType[]>([]);
+
   const getTodos = async () => {
     try {
       const { data } = await axios.get<TodoType[]>(url);
