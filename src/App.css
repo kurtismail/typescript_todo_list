@@ -113,7 +113,7 @@ ul {
     margin-top: 40px;
 }
 
-.checked {
+.check {
     text-decoration: line-through;
     color: rgb(37, 218, 20);
 }
